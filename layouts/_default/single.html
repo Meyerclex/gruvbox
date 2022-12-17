@@ -1,6 +1,13 @@
 {{ define "main" }}
   <article class="post">
     {{ partial "post-header.html" (dict "page" . "pageIndex" 0) }}
+    <div style="font-size: 14px; margin-top: 4px;">
+      <span style="color: var(--primary-alt);"
+        >{{ .WordCount }}
+      </span>
+      <span>words</span>
+    </div>
+
     <div class="post-content">
       {{ .Content }}
     </div>
@@ -9,7 +16,7 @@
       {{ partial "social-share.html" . }}
     {{ end }}
 
-    {{ if .Params.Comments }}
+    {{ if .Params.Comments | default true }}
       {{ partial "comments.html" . }}
     {{ end }}
   </article>

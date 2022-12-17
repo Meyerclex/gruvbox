@@ -44,10 +44,10 @@ aside.toc {
   }
 }
 
-.jr-basics__image {
+/* .jr-basics__image {
   background: var(--bg1);
   border: 2px solid var(--bg2);
-}
+} */
 
 .jr-basics__summary {
   color: var(--fg3);

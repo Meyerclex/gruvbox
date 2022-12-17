@@ -1,8 +1,9 @@
-baseURL = "http://localhost"
-copyright = "Copyright © 2021"
-title = "hugo-theme-gruvbox"
+baseURL = "https://gregueria.icu"
+copyright = ""
+title = "再會，謝謝所有的魚"
 #paginate = 10
 enableRobotsTXT = true
+hasCJKLanguage = true
 
 [markup]
   [markup.goldmark]
@@ -27,8 +28,11 @@ enableRobotsTXT = true
   subtitle = "Theme Demo"
   description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
 
+page_view_conter = true
+
+
   [params.logo]
-    text = "gruvbox"
+    text = "再會，謝謝所有的魚"
     url = "/"
 
   [params.prism]
@@ -115,24 +119,15 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
-    url = "/blog"
+    name = "Posts"
+    url = "/posts"
     weight = 10
   [[menu.main]]
     identifier = "projects"
-    name = "Projects"
-    url = "/projects"
+    name = "Friends"
+    url = "/links"
     weight = 20
-  [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv"
-    weight = 30
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 40
+
 
 [languages]
   [languages.en]

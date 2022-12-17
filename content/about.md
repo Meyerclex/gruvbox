@@ -1,26 +1,105 @@
 ---
-title: "About"
-draft: false
+title: About
+description:
+date: 2021-06-28
+slug: about
+aliases:
+  - about-us
+  - about-hugo
+  - contact
+lastmod: 2021-11-25
+menu:
+  main:
+    weight: -90
+    params:
+      icon: fail
 ---
 
-## Attributions
+<style>
+.article-header {
+    display: none;
+  }
+.article-footer {
+	display: none;
+  }
+</style>
 
-This theme depends on the following projects:
+## 👋嗨！
 
-- [Powered by Hugo](https://gohugo.io/)
-- Color scheme based on [Gruvbox](https://github.com/morhetz/gruvbox)
-- Code Highlighting by [Prism](https://prismjs.com/)
-- [Tabler Icons](https://tablericons.com/)
-- [Simple Icons](https://simpleicons.org/)
-- Content with the [#hugo-basic-example](/tags/hugo-basic-example) tag
-  originates from [gohugoio/hugoBasicExample](https://github.com/gohugoio/hugoBasicExample)
+你好！这是我的博客，你还可以在这些地方找到我：
 
-A big thanks to the creators! ❤️
+> [Write in Water](https://written.gregueria.icu/)：我的同人文站点，小鸟的异想世界。
+>
+> [Notebook](https://note.gregueria.icu/)：笔记本。
 
-The [profile picture of Richard Hendricks is from the Fandom Silicon Valley Wiki](https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg).
+很长一段时间我把读书笔记当作生活随笔来写，因为我的生活除了读到的书以外没有别的更刺激、更值得书写的东西。引自[**《指南》说："尽管去吧，祝你好运"**](https://gregueria.icu/posts/guide-for-drunkard/)：“阅读观影似乎成为我每次叙述的重心。久而久之我意识到这里存在一个意义灰色地带：我不能把其他作品中的美妙挪移到我的生活里，以掩饰我生活的轻浮。”于是我决定将读书笔记视作与我的现实生活一样应该被独立书写的部分（尽管两个部分必然有所交集），所以这个本不过是我互联网试吃活动的成果站点，最终成为了我的笔记站点。
 
-## Legal
+无论谁将点进这个博客，都要明白我已经将我人生最有意思的部分摆放出来了：我看的小说，流水般播放完毕的电视剧，还有我在苦闷中绞尽脑汁敲打出来的一些字。我想这份招待已颇具诚意。
 
-The theme is [licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
+## 🐟关于我的一些注释
 
-All trademarks are the property of their respective owners.
+1. 我正在过一种混乱的生活，也许我需要帮助，但更多的是我需要不被过问。请不要对我的现实生活部分提问。
+
+2. 我经常蛮伤心的，但也经常狂喜。
+
+3. 你可以问问我的动森小岛上发生了什么。
+
+4. 这个人对咖啡因和酒精有强烈的摄入需求。天哪，我觉得这一点和域名一样三年内都是难以改变的，所以必须要写上来。
+
+5. 难道是我拥有一只猫吗？事实上是一只猫拥有我。
+
+6. 我写信只是为了收到信。
+
+7. 要自我介绍吗？可以叫我小睡或小鱼（我有时候也会叫自己小鸟，这混乱的身份认同），它们都来源于我随手取的社交帐号昵称。我想网名只是一种习惯与依赖的结果，如果你决定和我成为朋友超过两个月并始终用某一个名字称呼我，那个名字也会被我认证成网名。支持不超过五个字的网名自定义。
+
+8. 我有一天为自己填了一个SNS社交倾向表​​，虽然绝大多数内容不适用于博客，但还是放上来完善一下About页面：
+
+<center>
+
+<img src="/SNS.jpg" alt="" width="700" >
+
+</center>
+
+
+## 📖关于沙滩的几个事实
+
+1. 这个域名人家一口气买了三年所以本阶段互联网可算是把人家套牢了，出于这一百元的巨额投入，短期内应该不会从这里跑路。（一百多块用三年呐！大家都买一个玩一下吧）
+
+2. 这个博客的评论区非常好用，可以匿名评论，留下邮箱的话还可以收到回复的提醒邮件。并且还有超级超级可爱的泡泡小猫表情。感谢[Revi的表情链接](https://blog.norevi.icu/2021/waline%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E6%83%85/)提供，没有这个一定是不行的。
+
+3. 站点搭建请见[小球飞鱼的Hugo博客搭建教程](https://mantyke.icu/posts/2021/hugo-build-blog/)。没有她也绝对是不行的。
+
+4. 由于我实在是太不擅长即时聊天，所以取消了左下角Channel.io的小气泡（它甚至会显示对方阅读到了哪里，这令我有一些无所遁形的焦灼）。依然欢迎通过评论区和我联系。
+
+5. 根据[芋阿圆的笔记](https://blog.plaskier.ga/posts/add-text-indent-and-headline-centering-for-your-blog-with-frontmatter/)增加了文章段首空两格的Feature，我的梦中情Feature，一举解决了我对Markdown写作最大的不满。谢谢芋阿圆的分享！
+
+6. 我添加了右下角的提问箱/留言板，嵌入代码来自[Mengru](https://mengru.space/?weeks/2022/43)，感谢她。这真可爱！箱子将保留100条留言，显示前20条留言，至于满了该怎么办？呃，到时候再说。
+
+## 📜关于目录的一些指南
+
+- 扭断那天鹅的脖子：生活随笔。
+
+- 只见积木轰然倒地：大多数只是社交网络上碎片化惨叫的集合。
+
+- 为沙滩插上太阳伞：博客搭建笔记，以及我在互联网各类服务中的探索。它们不会太多的。
+
+## 💎更新日志
+
+请见：[🧩Changelog](https://gregueria.icu/changelog)
+
+</details>
+
+## 🧩关于版权 Copyright
+
+1. 感谢又快又好用的[Stack](https://github.com/CaiJimmy/hugo-theme-stack)主题
+2. 感谢Home页的九十年代小猫咪：[It's Neko!](https://webneko.net/?white)
+3. 如果你也想要一个站点标题图片：[textanim](https://textanim.com/)
+4. 背景与页脚图片（一个美丽的站点）：[cinni.net](https://cinni.net/web.html#blinkies)
+
+## 📚Site info
+
+Curiosity is not enough; you need to have some concerns and, even better, a bit of anger. 
+It is more important to have your own voice than to have clever ideas, and to know what's going on than to know what latest literature says.
+
+敏感，愤怒，说话，听见，这里的每一件事情都让我痛苦而我决不停止。
+

@@ -1,0 +1,101 @@
+/* stylelint-disable prettier/prettier */
+/* 日间模式 */
+:root {
+  /* 字体大小 */
+  --waline-font-size: 16px;
+  --waline-bgcolor: var(--bg) !important;
+
+  /* 常规颜色 */
+  --waline-white: #fff;
+  --waline-light-grey: #999;
+  --waline-dark-grey: #666;
+
+  /* 主题色 */
+  --waline-theme-color: var(--primary-alt) !important; /* 主题颜色 */
+  --waline-active-color: #f0a536 !important;
+
+  /* 布局颜色 */
+  --waline-text-color: #444;
+  --waline-bgcolor: #fff;
+  --waline-bgcolor-light: #f8f8f8;
+  --waline-bgcolor-hover: #f0f0f0;
+  --waline-border-color: #ddd;
+  --waline-disable-bgcolor: #f8f8f8;
+  --waline-disable-color: #bbb;
+  --waline-code-bgcolor: #282c34;
+
+  /* 特殊颜色 */
+  --waline-bq-color: #f0f0f0;
+
+  /* 头像 */
+  --waline-avatar-size: 3.5rem;
+  --waline-mobile-avatar-size: calc(var(--waline-avatar-size) * 9 / 13);
+
+  /* 徽章 */
+  --waline-badge-color: #f0a536 !important;
+  --waline-badge-font-size: 0.775em;
+
+  /* 信息 */
+  --waline-info-bgcolor: #f8f8f8;
+  --waline-info-color: #999;
+  --waline-info-font-size: 0.625em;
+
+  /* 渲染选择 */
+  --waline-border: 1px solid var(--waline-border-color);
+  --waline-avatar-radius: 50%;
+  --waline-box-shadow: none;
+}
+/* 夜间模式 */
+
+:root {
+  --waline-white: #000;
+  --waline-light-grey: #666;
+  --waline-dark-grey: #999;
+  --waline-color: #888;
+  --waline-bgcolor: var(--bg1) !important;
+  --waline-bgcolor-light: var(--bg2) !important;
+  --waline-bgcolor-hover: var(--bg3) !important;
+  --waline-border-color: #333;
+  --waline-disable-bgcolor: #444;
+  --waline-disable-color: #272727;
+  --waline-bq-color: #272727;
+  --waline-info-bgcolor: #272727;
+  --waline-info-color: #666;
+}
+
+:root[data-theme="dark"] {
+  --waline-theme-color: var(--primary-color) !important; /* 主题颜色 */
+  --waline-white: #ddd !important; /* 按键字体颜色 */
+  --waline-active-color: #f0a536 !important;
+  --waline-light-grey: #666 !important;
+  --waline-dark-grey: rgba(140, 74, 85, 0.6) !important; /*ID 颜色 */
+  --waline-badge-color: rgba(140, 74, 85, 0.6) !important;
+
+  /* 布局颜色 */
+  --waline-text-color: #ccc !important;
+  --waline-bgcolor: var(--bg) !important;
+  --waline-bgcolor-light: var(--bg) !important; /* 行内代码块颜色 */
+  --waline-border-color: #9b9c9c !important;
+  --waline-disable-bgcolor: #444;
+  --waline-disable-color: #272727;
+
+  /* 特殊颜色 */
+  --waline-bq-color: #9b9c9c; /*quote*/
+
+  /* 其他颜色 */
+  --waline-info-bgcolor: rgba(140, 74, 85, 0.6);
+  --waline-info-color: #aaa;
+}
+
+.post {
+  border-bottom: 0px dotted var(--bg1);
+  border-bottom-width: ;
+  border-bottom-style: ;
+  border-bottom-color: ;
+  padding: 2rem 0;
+}
+
+.post {
+  border-bottom: 0px dotted var(--bg1);
+  padding: 2rem 0;
+}
