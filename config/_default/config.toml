@@ -125,7 +125,7 @@ page_view_conter = true
   [[menu.main]]
     identifier = "projects"
     name = "Friends"
-    url = "/links"
+    url = "/links/"
     weight = 20
 
 
