@@ -14,7 +14,6 @@ slug: links/
 {{< friend url="https://mantyke.icu/" avatar="https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png" name="小球飞鱼" bio="我们会一起遇见鲸鱼吗？" >}}
 {{< friend url="https://hugo-missingid.vercel.app/" avatar="https://hugo-missingid.vercel.app/img/avatar.jpg" name="Missing" bio="和我一起做赛博宵夜吧！" >}}
 {{< friend url="https://suicablog.cobaltkiss.blue" avatar="https://suicablog.cobaltkiss.blue/images/profile%20picture.png" name="suica" bio="suica's blog / suica 的博客" >}}
-{{< friend url="https://fivest.one/" avatar="https://fivest.one/icon.png" name="fivestone" bio="-" >}}
 {{< friend url="https://mengru.space/" avatar="https://mengru.space/pages/avatar.png" name="Mengru" bio="Mengru在互联网上的小小角落" >}}
 {{< friend url="https://hugo-mukokka.vercel.app" avatar="https://hugo-mukokka.vercel.app/avatar.png" name="Muko" bio="我以前没得选，现在我想做个绝望的文盲。" >}}
 {{< friend url="https://blog.mysto.cyou" avatar="https://s1.ax1x.com/2022/05/28/XnLEsP.png" name="咖啡冰河" bio="无感而发，随性而谈" >}}
