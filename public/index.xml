@@ -5,7 +5,16 @@
     <link>https://gregueria.icu/</link>
     <description>Recent content on 再會，謝謝所有的魚</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gregueria.icu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gregueria.icu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>换上秋冬色系新主题</title>
+      <link>https://gregueria.icu/posts/gruvbox/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gregueria.icu/posts/gruvbox/</guid>
+      <description>我划分时间的精度因冬日而大幅下降。无论是社交媒体小块碎片还是月记，每一次起笔都想先写上“入冬以来”。 入冬以来我的身体机动力便不断下降，原先想</description>
+    </item>
+    
     <item>
       <title>一个现实生活卧底的画像</title>
       <link>https://gregueria.icu/posts/portrait/</link>
@@ -384,12 +393,21 @@
     </item>
     
     <item>
-      <title>🖼️小鱼和她的朋友们</title>
+      <title>小鱼和她的朋友们</title>
       <link>https://gregueria.icu/links/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gregueria.icu/links/</guid>
       <description>.article-time { display: none; } 小球飞鱼 我们会一起遇见鲸鱼吗？ Missing 和我一起做赛博宵夜吧！ suica suica&amp;#39;s blog / suica 的博客 Mengru Mengru在互联网上的小小角落 Muko 我以前没得选，现在我想做</description>
+    </item>
+    
+    <item>
+      <title>💎站点更新日志 Changelog</title>
+      <link>https://gregueria.icu/changelog/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gregueria.icu/changelog/</guid>
+      <description>.article-header { display: none; } .article-footer { display: none; } 💎 站点更新日志 # 2022-09-14 # 文章页面打开时实在过分卡顿，排查原因，查到一篇文章谈到是背景图片显示方式background-att</description>
     </item>
     
     <item>

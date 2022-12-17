@@ -58,40 +58,38 @@
 
 
 
-<title>Docsify</title>
+<title>💎站点更新日志 Changelog</title>
 
 <meta
   name="description"
-  content="A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
+  content=".article-header { display: none; } .article-footer { display: none; } 💎 站点更新日志 # 2022-09-14 # 文章页面打开时实在过分卡顿，排查原因，查到一篇文章谈到是背景图片显示方式background-att"
 />
 
-<link rel="canonical" href="https://gregueria.icu/tags/docsify/" />
+<link rel="canonical" href="https://gregueria.icu/changelog/" />
 
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Docsify"/>
-<meta name="twitter:description" content="A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."/>
+<meta name="twitter:title" content="💎站点更新日志 Changelog"/>
+<meta name="twitter:description" content=".article-header { display: none; } .article-footer { display: none; } 💎 站点更新日志 # 2022-09-14 # 文章页面打开时实在过分卡顿，排查原因，查到一篇文章谈到是背景图片显示方式background-att"/>
 
-<meta property="og:title" content="Docsify" />
-<meta property="og:description" content="A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://gregueria.icu/tags/docsify/" />
-
-
-<meta itemprop="name" content="Docsify">
-<meta itemprop="description" content="A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes.">
+<meta property="og:title" content="💎站点更新日志 Changelog" />
+<meta property="og:description" content=".article-header { display: none; } .article-footer { display: none; } 💎 站点更新日志 # 2022-09-14 # 文章页面打开时实在过分卡顿，排查原因，查到一篇文章谈到是背景图片显示方式background-att" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gregueria.icu/changelog/" /><meta property="article:section" content="" />
+<meta property="article:published_time" content="2021-06-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-06-28T00:00:00+00:00" />
 
 
+<meta itemprop="name" content="💎站点更新日志 Changelog">
+<meta itemprop="description" content=".article-header { display: none; } .article-footer { display: none; } 💎 站点更新日志 # 2022-09-14 # 文章页面打开时实在过分卡顿，排查原因，查到一篇文章谈到是背景图片显示方式background-att"><meta itemprop="datePublished" content="2021-06-28T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-06-28T00:00:00+00:00" />
+<meta itemprop="wordCount" content="617">
+<meta itemprop="keywords" content="" />
 
 
 
-  <link
-    rel="alternate"
-    type="application/rss&#43;xml"
-    href="/tags/docsify/index.xml"
-    title="再會，謝謝所有的魚"
-  />
+
 
 
 
@@ -318,58 +316,169 @@
       <main>
         <div class="content">
           
-  
   <article class="post">
     <div class="post-header">
   <h1>
-    <a href="/posts/doclog/">Docsify | 花哨文具码在案前，用不用另说</a>
+    <a href="/changelog/">💎站点更新日志 Changelog</a>
   </h1>
 
   <div class="post-meta">
     
-      <span>2022-07-07</span>
+      <span>2021-06-28</span>
     
     
     
     
     
-    
-      <div class="post-tags">
-        
-          <a
-            class="post-tag"
-            href="https://gregueria.icu/tags/docsify"
-          >docsify</a>
-        
-      </div>
     
 
     
   </div>
 </div>
 
-    <div class="post-content">
-      <span>
-        
-          目前为止，我都喜爱它。
-        
+    <div style="font-size: 14px; margin-top: 4px;">
+      <span style="color: var(--primary-alt);"
+        >617
       </span>
-      <div style="font-size: 14px; margin-top: 4px;">
-        <span style="color: var(--primary-alt);"
-          >873
-        </span>
-        <span>words</span>
-      </div>
+      <span>words</span>
     </div>
+
+    <div class="post-content">
+      <style>
+.article-header {
+    display: none;
+  }
+.article-footer {
+	display: none;
+  }
+</style>
+<h2 id="-站点更新日志">
+  💎 站点更新日志
+  <a href="#-%e7%ab%99%e7%82%b9%e6%9b%b4%e6%96%b0%e6%97%a5%e5%bf%97" class="post-heading__anchor" aria-hidden="true">#</a>
+</h2>
+<h4 id="2022-09-14">
+  2022-09-14
+  <a href="#2022-09-14" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>文章页面打开时实在过分卡顿，排查原因，查到<a
+  href="https://segmentfault.com/a/1190000002970056"
+  
+  
+    class="link--external" target="_blank" rel="noreferrer"
+  
+>一篇文章</a>谈到是背景图片显示方式<code>background-attachment: fixed;</code>导致的，一口气注释掉。</p>
+<p>原文提供的优化方法试了几次都会导致字重显示有误（怀疑是<code>::before</code>的原因），最终也没有找到能够让图片不滚动的方法，图片滚动好像又会导致渲染不及时所以下滑时有短暂的大闪白光效果（）？，所以加了一行<code>will-change: auto;</code>应付一下就算完事了，谁知道起不起效果，不管你了！</p>
+<p>不知道为什么表情变得奇大无比，于是修改了评论区表情的大小和显示方式，现在悬停在它们身上可以获得放大效果，超可爱。感谢<a
+  href="https://blog.mysto.cyou/posts/211028-blognewtheme/"
+  
+  
+    class="link--external" target="_blank" rel="noreferrer"
+  
+>咖啡冰河的文章</a>：</p>
+<pre tabindex="0"><code>    img.wl-emoji,
+    img.vemoji {
+        width: 38px;
+        vertical-align: sub;
+        transition: ease-out .6s;
+    }
+
+    img.wl-emoji:hover,
+    img.vemoji:hover {
+        transform: scale(1.75);
+    }
+</code></pre><h4 id="2022-09-10">
+  2022-09-10
+  <a href="#2022-09-10" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>由于 Luna 实在难以驾驭，所以换回了又快又好用的 Stack 主题噗哈哈哈 XD！对主题一番装修，人家的 CSS 知识还没法照顾到移动端的适配，希望不要出太大差错。</p>
+<h4 id="2022-08-30">
+  2022-08-30
+  <a href="#2022-08-30" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>取消了 Channel.io 聊天气泡.</p>
+<h4 id="2022-07-24">
+  2022-07-24
+  <a href="#2022-07-24" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>根据芋阿圆的笔记增加了文章段首空两格的 Feature.</p>
+<h4 id="2022-05-24">
+  2022-05-24
+  <a href="#2022-05-24" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>终于把消失很久的聊天小气泡加上，虽然没有人找我聊天啦 💬</p>
+<h4 id="2022-05-22">
+  2022-05-22
+  <a href="#2022-05-22" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>终于把页脚的心头大患 Run Time 给改了实现了所有想要的 Feature 了，小鸟立誓再也不会打开装修页面了 😤VS code 也卸载了（假的），再见！</p>
+<h4 id="2022-05-19">
+  2022-05-19
+  <a href="#2022-05-19" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>经过爆破艰难地更新了船新版本的 Luna，获取了浮动 Toc 并立誓再也不更新主题了</p>
+<h4 id="2022-05-05">
+  2022-05-05
+  <a href="#2022-05-05" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>站点主题从 Stack 更换为 Luna</p>
+<h4 id="2021-11-14">
+  2021-11-14
+  <a href="#2021-11-14" class="post-heading__anchor" aria-hidden="true">#</a>
+</h4>
+<p>小鸟拥有了自己的第一个私人博客</p>
+<h3 id="装修笔记索引">
+  装修笔记索引
+  <a href="#%e8%a3%85%e4%bf%ae%e7%ac%94%e8%ae%b0%e7%b4%a2%e5%bc%95" class="post-heading__anchor" aria-hidden="true">#</a>
+</h3>
+<blockquote>
+<p><a
+  href="https://gregueria.icu/posts/decoration/"
+  
+  
+    class="link--external" target="_blank" rel="noreferrer"
+  
+>Stack 主题及评论区装修笔记</a></p>
+<p><a
+  href="https://gregueria.icu/posts/hugo-luna/"
+  
+  
+    class="link--external" target="_blank" rel="noreferrer"
+  
+>Luna 主题装修笔记</a></p>
+<p><a
+  href="https://lastversion.vercel.app/"
+  
+  
+    class="link--external" target="_blank" rel="noreferrer"
+  
+>📑 点击即看：上一版本的沙滩遗址</a></p>
+</blockquote>
+
+    </div>
+
+    
+
+    
+      
+
+<div id="waline"></div>
+<script>
+  Waline.init({
+    el: "#waline",
+    serverURL: "https://again-eight.vercel.app/",
+    emoji: [
+      "https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan",
+      "https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif",
+      "https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs",
+      "https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-png",
+    ],
+    requiredMeta: ["name", "email", "url"],
+    dark: true,
+  });
+</script>
+
+    
   </article>
-
-
-<div class="pagination">
-  
-  
-</div>
-
-
 
         </div>
         <div class="sidebar">
