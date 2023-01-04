@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 再會，謝謝所有的魚</title>
+    <link>https://gregueria.icu/tags/hugo/</link>
+    <description>Recent content in Hugo on 再會，謝謝所有的魚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gregueria.icu/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>换回旧主题，闪闪惹人爱</title>
+      <link>https://gregueria.icu/posts/%E9%97%AA%E9%97%AA%E6%83%B9%E4%BA%BA%E7%88%B1/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gregueria.icu/posts/%E9%97%AA%E9%97%AA%E6%83%B9%E4%BA%BA%E7%88%B1/</guid>
+      <description>总之又换主题了！ 旧的Luna主题漂亮美貌且功能齐全，可惜这主题用起来……确实问题很多且笨重。并且前段时间收到好几次站点打不开的反馈，我在Ti</description>
+    </item>
+    
+    <item>
+      <title>Hugo Luna | 换上了新主题，一边装修一边相声</title>
+      <link>https://gregueria.icu/posts/hugo-luna/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gregueria.icu/posts/hugo-luna/</guid>
+      <description>Luna 主题经常更新，文章内容可能已经过时。Luna 主题作者的非常热心，主题 Issue 板块是最好的求助渠道。 昨天跟 Missing 聊天，说有动换主题的念头，但我们都非常</description>
+    </item>
+    
+    <item>
+      <title>Hugo Stack | 删删改改大胆行事</title>
+      <link>https://gregueria.icu/posts/decoration/</link>
+      <pubDate>Sat, 01 Jan 2022 14:02:48 +0000</pubDate>
+      
+      <guid>https://gregueria.icu/posts/decoration/</guid>
+      <description>博客更新日志 # 2022-04-18 | 取消右侧栏小组件，更改页面宽度，Archive页面中增添Tags板块，取消了左侧栏的Home键。修改Site-info为Y</description>
+    </item>
+    
+  </channel>
+</rss>
