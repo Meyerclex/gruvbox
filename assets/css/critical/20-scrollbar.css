@@ -12,3 +12,25 @@ pre::-webkit-scrollbar-thumb {
   background: var(--bg4);
   border-radius: 0.2rem;
 }
+
+* {
+  scrollbar-width: auto;
+  scrollbar-color: var(--bg2);
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background: var(--bg2);
+}
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background: var(--bg2);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--primary-alt);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--primary-alt);
+}

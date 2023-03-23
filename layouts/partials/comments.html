@@ -7,7 +7,45 @@
   ... or another comment engine.
   See also: https://gohugo.io/content-management/comments
 -->
+<style>
+  .post {
+    border-bottom: 0px dotted var(--bg1);
+    border-bottom-width: ;
+    border-bottom-style: ;
+    border-bottom-color: ;
+    padding: 2rem 0;
+  }
 
+  .post {
+    border-bottom: 0px dotted var(--bg1);
+    padding: 2rem 0;
+  }
+
+  .wl-addr {
+    display: none !important;
+    color: transparent !important;
+  }
+  .wl-content .vemoji,
+  .wl-content .wl-emoji {
+    display: inline-block;
+    vertical-align: baseline;
+    height: 3.4em !important;
+    margin: -0.125em 0.25em;
+  }
+
+  img.wl-emoji,
+  img.vemoji {
+    vertical-align: sub;
+    transition: ease-out 0.6s;
+  }
+
+  img.wl-emoji:hover,
+  img.vemoji:hover {
+    transform: scale(1.8) !important;
+  }
+</style>
+<br />
+<br />
 <div id="waline"></div>
 <script>
   Waline.init({

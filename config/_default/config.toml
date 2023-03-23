@@ -25,8 +25,8 @@ hasCJKLanguage = true
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
   author = "Michael Schnerring"
-  subtitle = "Theme Demo"
-  description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
+  subtitle = "Thanks for all the fish"
+  description = "Hope my veins will bleed out of beautiful words."
 
 page_view_conter = true
 
@@ -127,6 +127,11 @@ page_view_conter = true
     name = "Friends"
     url = "/links/"
     weight = 20
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/index.xml/"
+    weight = 30
 
 
 [languages]

@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gregueria.icu/tags/blog/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gregueria.icu/categories/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,11 +15,17 @@
                 href="https://gregueria.icu/categories/"
                 />
   </url><url>
+    <loc>https://gregueria.icu/tags/memory/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/tags/monthly/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gregueria.icu/posts/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/tags/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,7 +38,7 @@
                 />
   </url><url>
     <loc>https://gregueria.icu/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -47,14 +50,29 @@
                 href="https://gregueria.icu/"
                 />
   </url><url>
+    <loc>https://gregueria.icu/posts/thewoman/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gregueria.icu/categories/%E6%89%AD%E6%96%AD%E9%82%A3%E5%A4%A9%E9%B9%85%E7%9A%84%E8%84%96%E5%AD%90/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/tags/corrugated/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/messy-stuff/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/thename/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/2023-1-3/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/tags/blog/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/posts/gruvbox/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gregueria.icu/tags/monthly/</loc>
-    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/posts/portrait/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
@@ -173,6 +191,9 @@
     <loc>https://gregueria.icu/posts/hacklibrary/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gregueria.icu/posts/form/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gregueria.icu/tags/book/</loc>
     <lastmod>2022-01-26T16:00:00+00:00</lastmod>
   </url><url>
@@ -241,6 +262,8 @@
   </url><url>
     <loc>https://gregueria.icu/posts/%E5%8D%A1%E6%B3%A2%E7%89%B9au%E8%84%91%E6%B4%9E/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/1924/</loc>
   </url><url>
     <loc>https://gregueria.icu/cv/</loc>
     <xhtml:link

@@ -1,5 +1,5 @@
 <div class="sidebar">
-  {{ if .Params.toc }}
+  {{ if .Params.toc | default true }}
     {{ with .TableOfContents }}
       <aside class="toc">
         <nav>
