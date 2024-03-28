@@ -1,10 +1,10 @@
 ---
-title: 小鱼和她的朋友们
+title: 
 description:
 date: 2021-06-28
 slug: links/
 toc: false
-comment: false
+comments: true
 ---
 
 <style>
@@ -20,27 +20,48 @@ comment: false
   color: var(--primary-alt);
 }
 
+a.link--external::after {
+    content: " | ";
+    padding: 0 0.1em; /* 调整间距大小 */
+}
+a.link--external:last-child::after {
+    content: none;
+}
+
 </style>
 
-- [小球飞鱼](https://mantyke.icu/) 我们会一起遇见鲸鱼吗？
-- [Missing](https://hugo-missingid.vercel.app/) 和我一起做赛博宵夜吧！
-- [suica](https://suicablog.cobaltkiss.blue)  suica's blog / suica 的博客
-- [Mengru](https://mengru.space/) Mengru在互联网上的小小角落
-- [Muko](https://main.iceco.icu/) 我以前没得选，现在我想做个绝望的文盲。
-- [咖啡冰河](https://blog.mysto.cyou) 无感而发，随性而谈
-- [晴空](https://www.summeringway.icu/) 像鸟儿编辑它们的飞行一般书写。
-- [チョウ](https://changingmoments.one/) 就在此刻，改变时刻
-- [Plaskier](https://blog.plaskier.ga/) 芋阿圆，嘎～
-- [Shixiaocaia](https://shixiaocaia.fun) 去做吧，反正都会后悔。
-- [白天](https://luoshui.icu/) 注意：野兽凶猛！
-- [山茶花舍](https://irithys.com/) 吕楪在记录自己的生活
-- [东俄勒冈群山](https://houdini.eu.org/) 它就像一个承诺，并几乎像一个下流的言行。
-- [白花恋诗](https://trails-of-isara.vercel.app/)把最棒的吊桥效应献给你
-- [呆呆不是槑](http://graugris.icu/) 梦想是实现旺仔牛奶自由
-- [甜鱼/Ayu](https://ayu.land) 三脚猫多面手，努力学习世界的一切
-- [冷酷蹦迪](https://www.hezicola.com/) 比较积极健康
-- [昼河万里](https://tothemoonriver.icu/) 一起去看月亮吧
-- [Zoeash](https://writee.org/zoeash/) 作者已死。（我隨時OK就等你電話！）
+## 小鱼和她的朋友们
+
+参考Mengru的排版更新了友人页面。
+
+- [Missing](https://hugo-missingid.vercel.app/) 
+[Mengru](https://mengru.space/) [Muko](https://main.iceco.icu/) [Plaskier](https://blog.plaskier.ga/)
+[Shixiaocaia](https://shixiaocaia.fun) [suica](https://suicablog.cobaltkiss.blue)[Zoeash](https://writee.org/zoeash/)
+
+- [咖啡冰河](https://blog.mysto.cyou)
+[晴空](https://www.summeringway.icu/)[小球飞鱼](https://mantyke.icu/)
+[超新星电台](https://supernovaradio.live/)[チョウ](https://changingmoments.one/)
+
+- [白天](https://luoshui.icu/)
+[山茶花舍](https://irithys.com/)[白花恋诗](https://trails-of-isara.vercel.app/)[东俄勒冈群山](https://houdini.eu.org/)[昼河万里](https://tothemoonriver.icu/)
+
+- [呆呆不是槑](http://graugris.icu/)
+[甜鱼/Ayu](https://ayu.land)[想要一块芝士碱水球吗](https://sunnkynews.icu/)
+[冷酷蹦迪](https://www.hezicola.com/)
+
+- [山月](https://sanguok.com/)[天堂错误文件](https://naturaleki.one/)[眠于水月间](https://sleepymoon.cyou)
+
+喜欢大家，爱看大家，通过RSS猛猛地订阅了大家{{< emoji name="meow_blush" ext="">}}
+
+## 漂流瓶联系
+
+也有一些经常默默观看、很是喜欢但没有交换的个人博客。未经允许添加在内，请原谅，需要删除请在评论区内留言，我会在第一时间删除的><
+
+- [Middle of Nowhere](https://notes.midofnowhere.link/) [一支咏叹调](https://turquoise.one/) [三轮](https://sanlun.bike/) [纸糖织猫](https://brsu.me/)
+
+- [查令十字街 84 号](https://www.javis.me/)[A Purrception](https://tortie.me/)
+
+
 
 ## 要和我交换吗？
 
@@ -48,12 +69,6 @@ comment: false
 
 名称：谢谢所有的鱼
 
-简介：Hope my veins will bleed out of beautiful words.
+我很珍惜博客这样的连结，因此并不希望和交换的友友们只是当互相挂在页面上但其实互相少有关联的一对URL，如果是毛毛象上的友友想要交换，也可以直接私信戳我～
 
-头像：https://gregueria.icu/avatar.png
-
-> ♡ 2023/02/11 Update ♡
-> 
-> :D话说大家注意到我修改了友链页面的样式吗？没注意到的话是这样的：我把短代码去掉了，并给大家**每个人**都发了<mark>**一颗爱心♡**</mark>，这可不是简单的手打的爱心呢，嘿嘿。总之，新的友链页面不需要给我提供头像链接啦～
-> 
-> (✿◡‿◡)那么，没有别的事了，谢谢大家，我走啦～～～
+如果您的网站经过备案又或风格太过阳刚（以电影Barbie的标准进行判断），可能将不会被接受。博客内容没有限制，但希望您也是对人和小动物都富有同理心的人{{< emoji name="blobcatflower" ext="">}}
