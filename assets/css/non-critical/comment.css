@@ -42,13 +42,12 @@ img.vemoji:hover {
   --waline-bgcolor: var(--bg) !important;
 
   /* 常规颜色 */
-  --waline-white: #fff;
   --waline-light-grey: #999;
   --waline-dark-grey: #666;
 
   /* 主题色 */
   --waline-theme-color: var(--primary-alt) !important; /* 主题颜色 */
-  --waline-active-color: #f0a536 !important;
+  --waline-active-color: var(--blue1) !important;
 
   /* 布局颜色 */
   --waline-text-color: #444;
@@ -87,10 +86,9 @@ img.vemoji:hover {
   --waline-white: #000;
   --waline-light-grey: #666;
   --waline-dark-grey: #999;
-  --waline-color: #888;
+  --waline-color: var(--fg);
   --waline-bgcolor: var(--bg1) !important;
   --waline-bgcolor-light: var(--bg2) !important;
-  --waline-bgcolor-hover: var(--bg3) !important;
   --waline-border-color: #333;
   --waline-disable-bgcolor: #444;
   --waline-disable-color: #272727;
@@ -101,11 +99,11 @@ img.vemoji:hover {
 
 :root[data-theme="dark"] {
   --waline-theme-color: var(--primary-color) !important; /* 主题颜色 */
-  --waline-white: #ddd !important; /* 按键字体颜色 */
-  --waline-active-color: #f0a536 !important;
+  --waline-white: var(--fg) !important; /* 按键字体颜色 */
+  --waline-active-color: var(--blue1) !important;
   --waline-light-grey: #666 !important;
-  --waline-dark-grey: rgba(140, 74, 85, 0.6) !important; /*ID 颜色 */
-  --waline-badge-color: rgba(140, 74, 85, 0.6) !important;
+  --waline-dark-grey: var(--primary-color) !important; /*ID 颜色 */
+  --waline-badge-color: var(--blue1) !important;
 
   /* 布局颜色 */
   --waline-text-color: #ccc !important;

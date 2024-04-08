@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gregueria.icu/categories/%E6%89%AD%E6%96%AD%E9%82%A3%E5%A4%A9%E9%B9%85%E7%9A%84%E8%84%96%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>小说大事记事簿</title>
+      <link>https://gregueria.icu/posts/aboutfic/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://gregueria.icu/posts/aboutfic/</guid>
+      <description>.image-container { display: flex; } .image-container .image-wrapper { width: 50%; padding: 5px; /* 调整间隔大小 */ box-sizing: border-box; /* 保证内边距不会增加元素宽度 */ text-align: center; } .image-container .image-wrapper img { max-width: 100%; } .image-container .image-wrapper p { margin-top: -10px; /* 调整文字与图片的距离 */ font-size: 15px; /* 调整</description>
+    </item>
+    
+    <item>
       <title>神压在了你身上</title>
       <link>https://gregueria.icu/posts/maco/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>

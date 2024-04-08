@@ -1,1 +1,11 @@
+<!--
+改用了fancybox，替代原本的图片方案
 {{ partial "image.html" (dict "src" .Destination "alt" .PlainText "caption" .Title "page" .Page "lazy" true) }}
+-->
+{{if .Page.Site.Params.fancybox }}
+<div class="post-img-view">
+<a data-fancybox="gallery" href="{{ .Destination | safeURL }}">
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+</a>
+</div>
+{{ end }}

@@ -27,7 +27,9 @@ a.link--external::after {
 a.link--external:last-child::after {
     content: none;
 }
-
+html {
+font-family: "Roboto Slab", Georgia, serif;
+}
 </style>
 
 ## 小鱼和她的朋友们
@@ -40,7 +42,7 @@ a.link--external:last-child::after {
 
 - [咖啡冰河](https://blog.mysto.cyou)
 [晴空](https://www.summeringway.icu/)[小球飞鱼](https://mantyke.icu/)
-[超新星电台](https://supernovaradio.live/)[チョウ](https://changingmoments.one/)
+[超新星电台](https://supernovaradio.live/)[チョウ](https://changingmoments.one/)[A Purrception🐈‍⬛](https://tortie.me/)
 
 - [白天](https://luoshui.icu/)
 [山茶花舍](https://irithys.com/)[白花恋诗](https://trails-of-isara.vercel.app/)[东俄勒冈群山](https://houdini.eu.org/)[昼河万里](https://tothemoonriver.icu/)
@@ -59,7 +61,7 @@ a.link--external:last-child::after {
 
 - [Middle of Nowhere](https://notes.midofnowhere.link/) [一支咏叹调](https://turquoise.one/) [三轮](https://sanlun.bike/) [纸糖织猫](https://brsu.me/)
 
-- [查令十字街 84 号](https://www.javis.me/)[A Purrception](https://tortie.me/)
+- [查令十字街 84 号](https://www.javis.me/)
 
 
 

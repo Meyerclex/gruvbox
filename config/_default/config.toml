@@ -24,12 +24,13 @@ hasCJKLanguage = true
   #themeColor = "blue"
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
-  author = "Michael Schnerring"
+  author = "Lyin"
   subtitle = "Thanks for all the fish"
   description = "Hope my veins will bleed out of beautiful words."
 
-page_view_conter = true
+  page_view_conter = true
 
+  fancybox = true
 
   [params.logo]
     text = "再會，謝謝所有的魚"
