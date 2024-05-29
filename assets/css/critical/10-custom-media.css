@@ -7,3 +7,30 @@
 @custom-media --lg (min-width: 992px);
 @custom-media --xl (min-width: 1200px);
 @custom-media --xxl (min-width: 1400px);
+
+
+
+
+.archive--list-item {
+  margin-bottom: 8px; /* 修改列表项的底部间距 */
+
+  padding-left: 0px; /* 移除圆点位置，这个数值可以根据需要调整 */
+}
+
+.archive--list-item:hover,
+.archive--list-item:focus {
+  color: var(--primary); /* 选中时的文字颜色 */
+}
+
+.archive--date {
+  color: var(--fg); /* 使用前景颜色 */
+}
+
+.draft-label {
+  color: var(--red1); /* 使用红色变量 */
+}
+
+.archive--list-item:hover .archive--date,
+.archive--list-item:focus .archive--date {
+    color: var(--primary); /* 选中时日期的颜色和文字一致 */
+}

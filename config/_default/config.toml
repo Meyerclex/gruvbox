@@ -119,11 +119,6 @@ hasCJKLanguage = true
 
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Posts"
-    url = "/posts"
-    weight = 10
-  [[menu.main]]
     identifier = "projects"
     name = "Friends"
     url = "/links/"
@@ -133,7 +128,6 @@ hasCJKLanguage = true
     name = "RSS"
     url = "/index.xml/"
     weight = 30
-
 
 [languages]
   [languages.en]
