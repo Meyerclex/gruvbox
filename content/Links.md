@@ -59,9 +59,11 @@ font-family: "Roboto Slab", Georgia, serif;
 
 也有一些经常默默观看、很是喜欢但没有交换的个人博客。未经允许添加在内，请原谅，需要删除请在评论区内留言，我会在第一时间删除的><
 
-- [Middle of Nowhere](https://notes.midofnowhere.link/) [一支咏叹调](https://turquoise.one/) [三轮](https://sanlun.bike/) [纸糖织猫](https://brsu.me/)
+- [Middle of Nowhere](https://notes.midofnowhere.link/) [一支咏叹调](https://turquoise.one/) [三轮](https://sanlun.bike/) [纸糖织猫](https://brsu.me/) [嘰嘰乞乞](https://www.gigigatgat.ca/)
 
 - [查令十字街 84 号](https://www.javis.me/) [奇遇女士](https://www.617.earth/) [小触手的书房](https://heiheihei.ca/) [小桃花树](https://strawberryxuan.icu/) [猫头气球生产工厂](https://ccaatthouse.icu/weekly)
+
+- [唉，澜的](https://www.lanisland.com/) [第三夏尔](https://thirdshire.com/)
 
 ## 要和我交换吗？
 
