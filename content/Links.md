@@ -63,7 +63,7 @@ font-family: "Roboto Slab", Georgia, serif;
 
 - [查令十字街 84 号](https://www.javis.me/) [奇遇女士](https://www.617.earth/) [小触手的书房](https://heiheihei.ca/) [小桃花树](https://strawberryxuan.icu/) [猫头气球生产工厂](https://ccaatthouse.icu/weekly)
 
-- [唉，澜的](https://www.lanisland.com/) [第三夏尔](https://thirdshire.com/)
+- [唉，澜的](https://www.lanisland.com/) [第三夏尔](https://thirdshire.com/) [一片痴心俱成灰](https://akaito.xyz/)
 
 ## 要和我交换吗？
 
@@ -71,6 +71,8 @@ font-family: "Roboto Slab", Georgia, serif;
 
 名称：谢谢所有的鱼
 
-我很珍惜博客这样的连结，因此并不希望和交换的友友们只是当互相挂在页面上但其实互相少有关联的一对URL，如果是毛毛象上的友友想要交换，也可以直接私信戳我～
+我很珍惜博客这样的连结，因此并不希望和交换的友友们只是当互相挂在页面上但其实互相少有关联的一对URL，如果是毛毛象上的友友想要交换，也可以直接私信戳我～ 希望您也是对人和小动物都富有同理心的人{{< emoji name="blobcatflower" ext="">}}
 
-以电影Barbie的标准进行判断，如果您的网站语言风格太过阳刚，可能将不会被接受。博客内容没有限制（太专业我看不懂），但希望您也是对人和小动物都富有同理心的人{{< emoji name="blobcatflower" ext="">}}
+**2024/06/11**
+
+最近因为写了太多同人内容，但感觉途径博客的基本是一般路过网友，忽然也有点惊慌。希望来交换友链的您也是同人女，或是Queer/A-spectrum的一员，或者您也对香港电影有兴趣，或者我们有一些其他的共同点呢！
