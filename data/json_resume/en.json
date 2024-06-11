@@ -1,12 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {    "name": "Thanks for all the fish",
-  "label": "Hope my veins will bleed out of beautiful words.",
+  "basics": {    "name": "再會，謝謝所有的魚",
+  "label": "So Long, and Thanks for All the Fish",
   "image": "/tiger.png",
 
-  "summary": "它是那一个早晨的老虎，在巴勒莫，也是东方的老虎和布莱克和雨果的老虎和希尔汗，也是曾经存在和将会存在的老虎，同样也是老虎的原型，因为那个体，就它而言，即是整个物种。我们觉得它噬血而又俊美。诺拉，一个小女孩，说道：它是为爱而造出来的。",
+  "summary": "說謊者心中敵對的，並不是誠實的人。說謊者想鏟除的，不是別人，正是小說家。",
   "location": {
-    "city": "《黑夜史·老虎》"
+    "city": "《永別書：在我不在的時代》"
   },
   "profiles": []},
   "work": [],

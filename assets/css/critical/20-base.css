@@ -1,8 +1,12 @@
 :root {
-  --font-monospace: "Fira Code", "Lucida Console", Monaco, monospace;
-  --font-sans-serif: Verdana, Helvetica, sans-serif;
-  --font-serif: "Fira Code","Roboto Slab", Georgia, serif;
+  --font-monospace: LXGWWenKai, "Fira Code", "Lucida Console", Monaco, monospace;
+  --font-sans-serif: LXGWWenKai, Verdana, Helvetica, sans-serif;
+  --font-serif: LXGWWenKai, "Fira Code","Roboto Slab", Georgia, serif;
 }
+
+
+/* https://github.com/satouriko/LxgwWenKai_Webfonts */
+
 
 html {
   font-family: var(--font-serif);
@@ -223,4 +227,3 @@ blockquote.twitter-tweet {
     margin-bottom: 0;
   }
 }
-

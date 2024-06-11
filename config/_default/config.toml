@@ -21,9 +21,9 @@ hasCJKLanguage = true
   # dark or light, defaults to light
   #defaultTheme = "light"
   # gray red green yellow blue purple aqua orange, defaults to blue
-  #themeColor = "blue"
+  themeColor = "blue"
   # soft medium hard, defaults to medium
-  #themeContrast = "medium"
+  themeContrast = "medium"
   author = "Lyin"
   subtitle = "Thanks for all the fish"
   description = "Hope my veins will bleed out of beautiful words."

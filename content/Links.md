@@ -16,7 +16,7 @@ comments: true
 }
 
 .content li::marker {
-  content: "♡   ";
+  content: "♡  ";
   color: var(--primary-alt);
 }
 
@@ -26,9 +26,6 @@ a.link--external::after {
 }
 a.link--external:last-child::after {
     content: none;
-}
-html {
-font-family: "Roboto Slab", Georgia, serif;
 }
 </style>
 
