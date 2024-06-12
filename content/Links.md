@@ -22,7 +22,7 @@ comments: true
 
 a.link--external::after {
     content: " | ";
-    padding: 0 0.1em; /* 调整间距大小 */
+    padding: 0 0em; /* 调整间距大小 */
 }
 a.link--external:last-child::after {
     content: none;
@@ -44,7 +44,7 @@ a.link--external:last-child::after {
 
 - [呆呆不是槑](http://graugris.icu/)
 [甜鱼/Ayu](https://ayu.land)[想要一块芝士碱水球吗](https://sunnkynews.icu/)
-[冷酷蹦迪](https://www.hezicola.com/)
+[冷酷蹦迪](https://www.hezicola.com/) [Χαρυβδις](https://kharybdism.xyz/)
 
 - [山月](https://sanguok.com/)[天堂错误文件](https://naturaleki.one/)[眠于水月间](https://sleepymoon.cyou)[Velas电波站](https://www.velasx.com) [夜航南飞](https://banshou-air.netlify.app/)
 
@@ -68,7 +68,7 @@ a.link--external:last-child::after {
 
 名称：谢谢所有的鱼
 
-我很珍惜博客这样的连结，因此并不希望和交换的友友们只是当互相挂在页面上但其实互相少有关联的一对URL，如果是毛毛象上的友友想要交换，也可以直接私信戳我～ 希望您也是对人和小动物都富有同理心的人{{< emoji name="blobcatflower" ext="">}}
+我很珍惜博客这样的连结，因此并不希望和交换的友友们只是当互相挂在页面上但其实互相少有关联的一对URL，如果是毛毛象上的友友想要交换，也可以直接私信戳我～希望您也是对人和小动物都富有同理心的人{{< emoji name="blobcatflower" ext="">}}
 
 **2024/06/11**
 
