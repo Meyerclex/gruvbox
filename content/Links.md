@@ -31,16 +31,12 @@ a.link--external:last-child::after {
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // 获取带有 post-content 类的文章内容
     var articleContent = document.querySelector(".post-content");
 
-    // 获取文章内容内部的所有列表项
     var items = articleContent.querySelectorAll("ul li");
 
-    // 将列表项转换为数组
     var itemsArray = Array.from(items);
 
-    // 随机排列数组中的元素
     for (var i = itemsArray.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
         var temp = itemsArray[i].innerHTML;
@@ -48,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function() {
         itemsArray[j].innerHTML = temp;
     }
 
-    // 获取每隔6个项后的分割线
     for (var i = 6; i < itemsArray.length; i += 7) {
         var hr = document.createElement("hr");
         itemsArray[i].parentNode.insertBefore(hr, itemsArray[i].nextSibling);
