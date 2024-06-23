@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gregueria.icu/tags/blog/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gregueria.icu/categories/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,14 +18,11 @@
                 href="https://gregueria.icu/categories/"
                 />
   </url><url>
-    <loc>https://gregueria.icu/tags/corrugated/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gregueria.icu/posts/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/tags/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -34,11 +34,8 @@
                 href="https://gregueria.icu/tags/"
                 />
   </url><url>
-    <loc>https://gregueria.icu/posts/all-about-rss/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gregueria.icu/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -51,6 +48,15 @@
                 />
   </url><url>
     <loc>https://gregueria.icu/categories/%E6%89%AD%E6%96%AD%E9%82%A3%E5%A4%A9%E9%B9%85%E7%9A%84%E8%84%96%E5%AD%90/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/archiveandlink/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/tags/corrugated/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/all-about-rss/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/posts/fetfc/</loc>
@@ -127,9 +133,6 @@
   </url><url>
     <loc>https://gregueria.icu/posts/2023-1-3/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gregueria.icu/tags/blog/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/posts/gruvbox/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
