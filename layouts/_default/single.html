@@ -7,11 +7,12 @@
       </span>
       <span>words</span>
     </div>
+
     <div class="page-class">
     <div class="post-content">
       {{ .Content }}
     </div>
-    </div>
+</div>
     {{ if .Params.SocialShare }}
       {{ partial "social-share.html" . }}
     {{ end }}
