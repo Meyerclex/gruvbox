@@ -8,6 +8,30 @@
 @custom-media --xl (min-width: 1200px);
 @custom-media --xxl (min-width: 1400px);
 
+/* 2024年7月28日，对图片排列的修改 */
+
+
+.page-class .post-content > p {
+  flex-basis: 100%;
+  margin: 0 0 12px;
+}
+
+.page-class .post-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.page-class .post-content .post-img-view {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+}
+
+.page-class .post-content .post-img-view img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 
 
 
