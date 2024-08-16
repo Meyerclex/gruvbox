@@ -121,6 +121,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 - [珊瑚阁 GoldMaple](https://goldmaple.info/) / 是世界公民小金，正在写着关于驻西非的生活。她正在用特别而珍贵的视角，坦率地记录着自己的人生。
 
+- [Kawa1Planet](kawa1planet.fun) / 是一位武侠同人女友友但是卡哇1星球里什么都有！！！你也喜欢卡哇1那我们就是志同道合的伙伴了。
+
 ---
 
 喜欢大家，爱看大家，通过RSS猛猛地订阅了大家{{< emoji name="meow_blush" ext="">}}
