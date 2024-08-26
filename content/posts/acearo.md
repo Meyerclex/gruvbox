@@ -1,7 +1,7 @@
 ---
 title: 一场有关A-spectrum的自我探索
 description: "我真正想要知道的是，和我一样的人，她们是怎么生活的。"
-date: 2024-04-28
+date: 2024-08-26
 draft: false
 tags: 
     - monthly
