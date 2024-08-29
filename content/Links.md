@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 💖 那些同样也在书写着自己的写作者朋友们，每个人都得到了我的一颗爱心！但是只有电脑端阅读才能看见（欸？）。
 
-💡 我重新书写了这个友链页面，并放上了我对大家很粗浅的了解。如果有任何不恰当的地方，或者您发现我冒冒失失地弄错了什么地方，又或您有自己更喜欢的描述方向，希望重新介绍自己，也请毫不犹豫地联系我！
+💡 我重新书写了这个友链页面，并放上了我对大家很粗浅的了解。如果有任何不恰当的地方，或我冒冒失失地弄错了什么，又或您有自己更喜欢的描述方向，希望重新介绍自己，都请毫不犹豫地联系我！
 
 ✨ 每一次刷新都会得到不同的顺序和相遇。
 
@@ -124,6 +124,10 @@ document.addEventListener("DOMContentLoaded", function() {
 - [珊瑚阁 GoldMaple](https://goldmaple.info/) / 是世界公民小金，正在写着关于驻西非的生活。她正在用特别而珍贵的视角，坦率地记录着自己的人生。
 
 - [Kawa1Planet](https://kawa1planet.fun/) / 是一位武侠同人女友友但是卡哇1星球里什么都有！！！你也喜欢卡哇1那我们就是志同道合的伙伴了。
+
+- [Shadows of the Sun](https://rovingsun.wordpress.com/) / 很好的、优美的写作，与一个火热的真心，来自新朋友Rovingsun。你也会喜欢她的。
+
+- [一支咏叹调](https://turquoise.one/) / 是蜉蝣，她有一只叫Pebble的可爱小猫。书写中流动着纤细的心绪。
 
 ---
 
