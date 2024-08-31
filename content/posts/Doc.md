@@ -9,6 +9,7 @@ categories:
 tags:
     - Docsify
 toc: true
+hidden: true 
 ---
 
 总而言之，某日逛到一个Docsify笔记库，简洁干净又漂亮，看了一下教程似乎并不难，我对自己的[前笔记库](https://teetotaler.vercel.app/)不满很久（因为没有办法检索），于是摸鱼事件着手折腾Docsify，竟然成了（竟然成了）。

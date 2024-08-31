@@ -8,6 +8,7 @@ categories:
   - 为沙滩插上太阳伞
 tags:
   - Email
+hidden: true 
 ---
 
 事情要从 Checker Plus for Gmail 这个浏览器插件开始讲起，它是一个可以提醒你 Gmail 收到新邮件、并且不需要点开新的网页就能直接查看邮件的插件。

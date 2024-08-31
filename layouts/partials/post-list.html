@@ -1,27 +1,27 @@
 {{ range $pageIndex, $page := .Pages }}
-  <article class="post">
-    {{ partial "post-header.html" (dict "page" . "pageIndex" $pageIndex) }}
-    <div class="post-content">
-      <span>
-        {{ with .Description }}
-          {{ . }}
-        {{ else }}
-          {{ .Summary }}
-          {{ if .Truncated }}
-            <div class="post-content__read-more">
-              <a href="{{ .RelPermalink }}">Read more ></a>
-            </div>
+  {{ if not $page.Params.hidden }}
+    <article class="post">
+      {{ partial "post-header.html" (dict "page" . "pageIndex" $pageIndex) }}
+      <div class="post-content">
+        <span>
+          {{ with .Description }}
+            {{ . }}
+          {{ else }}
+            {{ .Summary }}
+            {{ if .Truncated }}
+              <div class="post-content__read-more">
+                <a href="{{ .RelPermalink }}">Read more ></a>
+              </div>
+            {{ end }}
           {{ end }}
-        {{ end }}
-      </span>
-      <div style="font-size: 14px; margin-top: 4px;">
-        <span style="color: var(--primary-alt);"
-          >{{ .WordCount }}
         </span>
-        <span>words</span>
+        <div style="font-size: 14px; margin-top: 4px;">
+          <span style="color: var(--primary-alt);">{{ .WordCount }}</span>
+          <span>words</span>
+        </div>
       </div>
-    </div>
-  </article>
+    </article>
+  {{ end }}
 {{ end }}
 
 {{ partial "pagination.html" . }}

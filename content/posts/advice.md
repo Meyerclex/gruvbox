@@ -2,7 +2,7 @@
 categories = ["扭断那天鹅的脖子"]
 date = 2022-03-18
 description = "如果有人每天往宿舍、食堂、自习室随机发射子弹，不出三天能捡到我的四十具尸体，我每天在这三个地方出现的次数已经达到了一种足以合并多个平行宇宙的我的量子复合叠加态。"
-hidden = false
+hidden = true
 image = ""
 slug = "advice"
 tags = ["Guide"]

@@ -2,12 +2,12 @@
 categories = ["只见积木轰然倒地"]
 date = 2022-03-28
 description = "终于又攒够一圈能发碎片分类的东西，于是拍拍手决定把SNS上为Lcdp（主要是为我CP）发出的惨叫声收集一下凑篇博客。"
-hidden = false
 image = ""
 slug = "lcdpfragment"
 tags = ["Fragment"]
 title = "《纸钞屋》：中国科学家成功破译深夜惨叫声50枚"
 textIndent = true
+hidden = true 
 +++
 
 ## 写在前面

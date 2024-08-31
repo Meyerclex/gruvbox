@@ -8,6 +8,7 @@ tags:
     - Monthly
     - VideoGame!
 categories: 扭断那天鹅的脖子
+hidden: true
 ---
 
 ## 新身份

@@ -12,6 +12,11 @@ categories:
 tags:
   - Hugo
   - Blog
+hidden: true 
+---
+
+> 这篇文章的内容已不再适用。
+
 ---
 
 Luna 主题经常更新，文章内容可能已经过时。Luna 主题作者的非常热心，主题 Issue 板块是最好的求助渠道。

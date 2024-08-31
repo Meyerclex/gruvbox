@@ -8,6 +8,7 @@ tags:
   - Fragment
 description: 取这个标题显得我们圈很热闹的样子，但实际上Q&A和Repo共计2500字全是我一个人写的。
 slug: repo
+hidden: true 
 ---
 
 耗时两三天写完了《纸钞屋》的新同人：[《肉身神像》](https://written.gregueria.icu/posts/teraph/)。

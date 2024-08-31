@@ -6,6 +6,7 @@ slug = "nodejs-notablog"
 tags = ["Blog", "Notion"]
 title = "Blog | 互联网乱序试吃后，敲起之前中道崩殂的Notablog"
 textIndent = true
+hidden = true 
 +++
 > 在我敲完这篇的四天后（_2022年1月16日_）我忽然瞧见了另一个博客，TA也写了如何自己的搭建流程，我想TA的方案显然比我的更简洁也更好，虽然我想不到有谁会认真参考我的博客内容，但还是一并贴来：[Making a Github blog from Notion pages](https://janakymurthy.github.io/making_blog_from_notion_pages.html)
 > 

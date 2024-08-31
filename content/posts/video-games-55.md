@@ -6,6 +6,7 @@ slug = "55yearslater"
 tags = ["VideoGame!"]
 title = "55年后我们更加相爱"
 textIndent = true
+hidden = true
 +++
 
 > 这篇的标题本来是“支持仿生人取代人类统治地球”。

@@ -9,6 +9,7 @@ categories:
 tags:
     - Monthly
 textIndent: true
+hidden: true 
 ---
 
 博客到长毛象的忧郁浓度都太高了，并且写的都是思虑的内生且难以解决的事情。即将开启没时间写作的新一周，来写一些非伤心事件，因为跳跃而没有逻辑，所以甚至需要一个目录。
