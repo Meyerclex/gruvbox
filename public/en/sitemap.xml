@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gregueria.icu/categories/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -16,13 +16,13 @@
                 />
   </url><url>
     <loc>https://gregueria.icu/tags/monthly/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/posts/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/tags/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -34,11 +34,8 @@
                 href="https://gregueria.icu/tags/"
                 />
   </url><url>
-    <loc>https://gregueria.icu/posts/theroadofaspectrum/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gregueria.icu/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -50,7 +47,13 @@
                 href="https://gregueria.icu/"
                 />
   </url><url>
+    <loc>https://gregueria.icu/posts/%E5%8D%A4%E7%85%AE/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gregueria.icu/categories/%E6%89%AD%E6%96%AD%E9%82%A3%E5%A4%A9%E9%B9%85%E7%9A%84%E8%84%96%E5%AD%90/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gregueria.icu/posts/theroadofaspectrum/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gregueria.icu/tags/recite/</loc>
