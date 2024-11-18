@@ -119,4 +119,8 @@ img.vemoji:hover {
   /* 其他颜色 */
   --waline-info-bgcolor: rgba(140, 74, 85, 0.6);
   --waline-info-color: #aaa;
+
+  --waline-border: 0px;                           
+  --waline-border-color: var(--waline-bgcolor);  
 }
+
